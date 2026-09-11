@@ -1,1 +1,2 @@
-print("hello world")
+neki = 100
+for i 
